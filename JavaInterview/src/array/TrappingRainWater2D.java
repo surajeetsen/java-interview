@@ -1,4 +1,4 @@
-package leetcode;
+package array;
 
 /**
  * Given n non-negative integers representing an elevation map where the width
@@ -35,10 +35,10 @@ public class TrappingRainWater2D {
 
 		return maxWaterTrapped;
 	}
-	
+
 	public static void main(String[] args) {
 		TrappingRainWater2D trw = new TrappingRainWater2D();
-		int[] elevationArr = {0,1,0,2,1,0,1,3,2,1,2,1};
+		int[] elevationArr = { 0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1 };
 		System.out.println(trw.trap(elevationArr));
 	}
 }
