@@ -1,0 +1,23 @@
+apply plugin: 'application'
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+
+sourceCompatibility = '1.8'
+targetCompatibility = '1.8'
+
+sourceSets {
+    main {
+        java {
+            srcDir 'src'
+        }
+   }
+}
+
+mainClassName = 'MerchantsGuideMain'
+
+run {
+	if(System.getProperty("arg") != null) {
+		args System.getProperty("arg").split()
+	}
+}
