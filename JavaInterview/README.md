@@ -8,6 +8,9 @@
 ### Bit Manipulation
 - [Hamming Distance](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/bitManipulation/HammingDistance.java)
 
+### Data Structures
+- [Single Linked List](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/datastructures/SingleLinkedList.java)
+
 ### Math
 - [Add digits until the result has only one digit](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/math/AddDigits.java)
 - [Circular Primes](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/math/CircularPrimes.java)
