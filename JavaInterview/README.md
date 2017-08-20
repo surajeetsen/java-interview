@@ -1,5 +1,24 @@
 # Java Coding Interview Questions
 
-### 1. Arrays
+### Array
 - [Product of Arrays Except Self](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/array/ProductOfArrayExceptSelf.java)
 - [Search in rotated sorted Array](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/array/SearchInRotatedSortedArray.java)
+- [Trapping Rain Water 2D](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/array/TrappingRainWater2D.java)
+
+### Bit Manipulation
+- [Hamming Distance](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/bitManipulation/HammingDistance.java)
+
+### Math
+- [Add digits until the result has only one digit](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/math/AddDigits.java)
+- [Circular Primes](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/math/CircularPrimes.java)
+- [Find the number of trailing zeroes factorial of a number contains](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/math/FactorialTrailingZeroes.java)
+- [Sieve Algorithm for generating prime numbers](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/math/SievePrimeGenerator.java)
+- [Water and Jug Problem](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/math/WaterAndJugProblem.java)
+
+### String
+- [Given two strings s and t, determine if they are isomorphic](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/string/IsomorphicStrings.java)
+- [Longest Substring Without Repeating Characters](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/string/LongestSubstringWithoutRepeatingCharacters.java)
+- [Shortest palindrome that can be formed by adding characters in front of a String](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/string/ShortestPalindrome.java)
+
+### Threads
+- [Producer Consumer Problem](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/threads/ProducerConsumerProblem.java)
