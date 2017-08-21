@@ -7,6 +7,7 @@
 
 ### Bit Manipulation
 - [Hamming Distance](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/bitManipulation/HammingDistance.java)
+- [Sum of two integers without using any mathematical operations](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/bitManipulation/SumOfTwoIntegers.java)
 
 ### Data Structures
 - [Single Linked List](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/datastructures/SingleLinkedList.java)
