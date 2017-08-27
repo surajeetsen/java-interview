@@ -21,6 +21,7 @@
 - [Water and Jug Problem](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/math/WaterAndJugProblem.java)
 
 ### String
+- [Determine if a string is an anagram of another string](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/string/CheckAnagram.java)
 - [Given two strings s and t, determine if they are isomorphic](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/string/IsomorphicStrings.java)
 - [Longest Substring Without Repeating Characters](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/string/LongestSubstringWithoutRepeatingCharacters.java)
 - [Shortest palindrome that can be formed by adding characters in front of a String](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/string/ShortestPalindrome.java)
