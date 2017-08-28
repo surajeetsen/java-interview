@@ -20,6 +20,9 @@
 - [Sieve Algorithm for generating prime numbers](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/math/SievePrimeGenerator.java)
 - [Water and Jug Problem](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/math/WaterAndJugProblem.java)
 
+### Sorting
+- [Heap Sort](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/sorting/HeapSort.java)
+
 ### String
 - [Determine if a string is an anagram of another string](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/string/CheckAnagram.java)
 - [Given two strings s and t, determine if they are isomorphic](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/string/IsomorphicStrings.java)
