@@ -22,6 +22,7 @@
 
 ### Sorting
 - [Heap Sort](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/sorting/HeapSort.java)
+- [Sort elements by frequency](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/sorting/SortElementsByFrequency.java)
 
 ### String
 - [Determine if a string is an anagram of another string](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/string/CheckAnagram.java)
