@@ -1,8 +1,17 @@
 apply plugin: 'java'
 apply plugin: 'eclipse'
+apply plugin: 'idea'
 
 sourceCompatibility = '1.8'
 targetCompatibility = '1.8'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile 'junit:junit:4.12'
+}
 
 sourceSets {
     main {
@@ -10,4 +19,10 @@ sourceSets {
             srcDir 'src'
         }
    }
+
+    test {
+        java {
+            srcDir 'test'
+        }
+    }
 }
