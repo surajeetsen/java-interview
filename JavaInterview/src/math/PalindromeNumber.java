@@ -7,11 +7,7 @@ package math;
  * @author Surajeet Sen
  */
 public class PalindromeNumber {
-	public static void main(String[] args) {
-		int num = 121;
-		System.out.println(new PalindromeNumber().isPalindrome(num));
-	}
-
+	
 	public boolean isPalindrome(int x) {
 		if (x < 0) {
 			return false;
