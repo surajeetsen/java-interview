@@ -2,6 +2,7 @@
 
 ### Array
 - [Longest Increasing Subsequence](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/array/LongestIncreasingSubsequence.java)
+- [Odd Occurrence Number](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/array/OddOccurrence.java)
 - [Product of Arrays Except Self](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/array/ProductOfArrayExceptSelf.java)
 - [Search in rotated sorted Array](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/array/SearchInRotatedSortedArray.java)
 - [Trapping Rain Water 2D](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/array/TrappingRainWater2D.java)
