@@ -23,6 +23,7 @@
 - [Water and Jug Problem](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/math/WaterAndJugProblem.java)
 
 ### Sorting
+- [Bubble Sort](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/sorting/BubbleSort.java)
 - [Heap Sort](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/sorting/HeapSort.java)
 - [Sort elements by frequency](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/sorting/SortElementsByFrequency.java)
 
