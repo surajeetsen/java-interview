@@ -9,11 +9,6 @@ package array;
  */
 public class OddOccurrence {
 	
-	public static void main(String[] args) {
-		int[] nums = {1,1,1,2,2,2};
-		System.out.println(new OddOccurrence().getNumberOccuringOddNumberOfTimes(nums));
-	}
-	
 	public int getNumberOccuringOddNumberOfTimes(int[] nums) {
 		if(nums == null || nums.length == 0 || nums.length % 2 == 0) {
 			return -1;
