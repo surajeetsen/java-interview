@@ -7,12 +7,7 @@ package string;
  * @author Surajeet Sen
  */
 public class StringHasAllUniqueChars {
-	public static void main(String[] args) {
-		StringHasAllUniqueChars unique = new StringHasAllUniqueChars();
-		System.out.println(unique.areAllUniqueChars1("abcdef12345*&^%"));
-		System.out.println(unique.areAllUniqueChars2("abcdefa"));
-	}
-
+	
 	// If the string is composed of ASCII characters
 	public boolean areAllUniqueChars1(String str) {
 		if (str.length() > 256) {
