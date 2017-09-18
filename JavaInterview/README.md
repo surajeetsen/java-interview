@@ -1,6 +1,7 @@
 # Java Coding Interview Questions
 
 ### Array
+- [Find numbers disappeared in an array](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/array/FindNumbersDisapperaredInArray.java)
 - [Longest Increasing Subsequence](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/array/LongestIncreasingSubsequence.java)
 - [Odd Occurrence Number](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/array/OddOccurrence.java)
 - [Product of Arrays Except Self](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/array/ProductOfArrayExceptSelf.java)
