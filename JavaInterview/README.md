@@ -4,6 +4,7 @@
 - [Find numbers disappeared in an array](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/array/FindNumbersDisapperaredInArray.java)
 - [Jump Game](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/array/JumpGame.java)
 - [Longest Increasing Subsequence](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/array/LongestIncreasingSubsequence.java)
+- [Majority Element](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/array/MajorityElement.java)
 - [Moving Zeroes](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/array/MovingZeroes.java)
 - [Odd Occurrence Number](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/array/OddOccurrence.java)
 - [Peak Element](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/array/PeakElement.java)
