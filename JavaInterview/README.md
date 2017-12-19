@@ -25,6 +25,7 @@
 - [Find the number of trailing zeroes factorial of a number contains](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/math/FactorialTrailingZeroes.java)
 - [Determine whether an integer is a Palindrome](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/math/PalindromeNumber.java)
 - [Sieve Algorithm for generating prime numbers](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/math/SievePrimeGenerator.java)
+- [Reverse digits of an integer](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/math/ReverseInteger.java)
 - [Water and Jug Problem](https://github.com/surajeetsen/java-interview/blob/master/JavaInterview/src/math/WaterAndJugProblem.java)
 
 ### Sorting
