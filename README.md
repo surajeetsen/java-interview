@@ -8,5 +8,3 @@
 * Change the working directory to any of the project.
 * Run gradlew eclipse to generate eclipse related files.
 * Import the project to eclipse.
-
-test changes
