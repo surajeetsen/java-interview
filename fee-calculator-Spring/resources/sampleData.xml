@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<transactions>
+	<transaction>
+		<externalTxnId>SAPEXTXN1</externalTxnId>
+		<clientID>GS</clientID>
+		<securityID>ICICI</securityID>
+		<transactionType>BUY</transactionType>
+		<transactionDate>11/23/2013</transactionDate>
+		<marketValue>101.9</marketValue>
+		<priorityFlag>Y</priorityFlag>
+	</transaction>
+	<transaction>
+		<externalTxnId>SAPEXTXN2</externalTxnId>
+		<clientID>AS</clientID>
+		<securityID>REL</securityID>
+		<transactionType>BUY</transactionType>
+		<transactionDate>11/20/2013</transactionDate>
+		<marketValue>121.9</marketValue>
+		<priorityFlag>N</priorityFlag>
+	</transaction>
+</transactions>
